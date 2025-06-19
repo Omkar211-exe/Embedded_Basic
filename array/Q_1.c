@@ -1,3 +1,6 @@
+//Examine an array expected to contain consecutive integers from 1 to 500.
+//Identify any integer that is missing from this sequence.
+
 #include <stdio.h>
 #define RANGE 500
 int main()
